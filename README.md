@@ -10,5 +10,5 @@ Implement React, a JavaScript library, to build interactive and dynamic web page
 Employ responsive design principles, ensuring the website is fully accessible on various devices.
 
 
-![Alt Text](https://docs.google.com/presentation/d/1nQK_VnSM4DT5E1ZAJcUpeDDSjkWkWHS_WJnnBUViMoY/edit#slide=id.g292f1855db5_0_9)
+![Alt Text](https://github.com/Aakashsedha/FEEE-CS186-/blob/main/Screenshot%202023-10-25%20212858.png)
 
