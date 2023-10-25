@@ -11,4 +11,6 @@ Employ responsive design principles, ensuring the website is fully accessible on
 
 ![100](https://github.com/Aakashsedha/FEEE-CS186-/blob/main/Screenshot%202023-10-25%20212858.png)
 
+![100](https://github.com/Aakashsedha/FEEE-CS186-/blob/main/Screenshot%202023-10-25%20212945.png)
+
 
